@@ -19,7 +19,7 @@ This is a Node.js project built with Express and MongoDB, utilizing Mongoose for
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aryanak-18/Natours.git
+   git clone https://github.com/Harsh21hv/Natours.git
    ```
 
 2. Navigate to the project directory:
@@ -42,10 +42,10 @@ This is a Node.js project built with Express and MongoDB, utilizing Mongoose for
    npm start
    ```
 
-2. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the application.
+2. Open your web browser and go to [http://127.0.0.1:8000](http://127.0.0.1:8000) to access the application.
 
-3. Dummy username: laura@example.com
-   Dummy password: test1234
+3. Dummy username: sophie@example.com
+   Dummy password: test12345
 
 ## Folder Structure
 
